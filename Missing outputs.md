@@ -1,4 +1,6 @@
-## Here are the 2 missing files from the Jupyter Notebook.
+# Missing files from the Jupyter Notebook
+
+In the Jupyter Notebook, 2 outputs are not displayed. I displayed them here. 
 
 ####  Output 112
 
