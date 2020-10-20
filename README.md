@@ -10,3 +10,5 @@ I created visualizations on Coronavirus cases.
 * *Missing Outputs.md* - 2 outputs are missing from the workshop. They are displayed here. 
 * *Coronadata30_31mareu_usa.xlsx* - First dataset (Coronavirus cases 30-31 March in Europe and USA)
 * *finaltimeline.xlsx* - Second dataset (Coronavirus cases in March in a few countries)
+
+..
